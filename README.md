@@ -1,4 +1,5 @@
-[![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)](https://Sannidhi-Shetty.io)
+[![MasterHead](![image](https://github.com/Sannidhi-Shetty2/Sannidhi-Shetty2/assets/62684303/ad4cb2d6-d4d5-4638-ace9-580f0ef15c08)
+)](https://Sannidhi-Shetty2.io)
 
 <h1 align="center">Hi 👋, I'm Sannidhi Shetty</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
