@@ -1,5 +1,4 @@
-[![MasterHead](![image]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY0zqyMYX3YOv6g2RR5anFjLJ2-PUujSYMGA&usqp=CAU](https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d34f3b422c048fb72cb925_Analyze.gif))
-)](https://Sannidhi-Shetty2.io)
+[![MasterHead](https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d34f3b422c048fb72cb925_Analyze.gif)](https://Sannidhi-Shetty.io)
 
 <h1 align="center">Hi 👋, I'm Sannidhi Shetty</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
