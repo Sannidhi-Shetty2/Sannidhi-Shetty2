@@ -1,4 +1,4 @@
-[![MasterHead](![image](https://github.com/Sannidhi-Shetty2/Sannidhi-Shetty2/assets/62684303/ad4cb2d6-d4d5-4638-ace9-580f0ef15c08)
+[![MasterHead](![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY0zqyMYX3YOv6g2RR5anFjLJ2-PUujSYMGA&usqp=CAU)
 )](https://Sannidhi-Shetty2.io)
 
 <h1 align="center">Hi 👋, I'm Sannidhi Shetty</h1>
